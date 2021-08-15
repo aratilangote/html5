@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>List</title>
+    </head>
+    <body>
+        <!--
+            Ordered list
+        -->
+        <ol type="A">
+            <li title="1KG">Product 1</li>
+            <li title="1KG">Product 2</li>
+            <li>Product 3</li>
+            <li>Product 4</li>
+            <li>Product 5</li>
+        </ol>
+        <ol type="1" start="6">
+            <li title="1KG">Product 1</li>
+            <li title="1KG">Product 2</li>
+            <li>Product 3</li>
+            <li>Product 4</li>
+            <li>Product 5</li>
+        </ol>
+
+
+        <!--
+            Unordered list
+        -->
+        <ul>
+            <li title="1KG">Product 1</li>
+            <li title="1KG">Product 2</li>
+            <li>Product 3</li>
+            <li>Product 4</li>
+            <li>Product 5</li>
+        </ul>
+
+        <!--
+            Discriptive list / Data list
+        -->
+        <dl>
+            <dt>Hi</dt>
+            <dd>Hello</dd>
+            <dt>Word </dt>
+            <dd>Discription </dd>
+        </dl>
+    </body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Table</title>
+    </head>
+    <body style="background-color: aqua;">
+        <table border="1px" style="width: 70%;">
+            <tr>
+                <th colspan="4" style="font-size: 40px;">Date</th>
+            </tr>
+
+            <tr style="30px">
+                
+                <th>Day</th>
+                <th>Month</th>
+                <th>Year</th>
+            </tr>
+            
+            <tr>
+                <td>11</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+
+            <tr>
+                <td>12</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+
+            <tr>
+                <td>14</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+
+            <tr>
+                <td>16</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+
+            <tr>
+                <td>18</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+
+            <tr>
+                <td>20</td>
+                <td>08</td>
+                <td>2021</td>
+            </tr>
+        </table>
+    </body>
+</html>
