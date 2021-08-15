@@ -1,9 +1,0 @@
-<!Doctype HTML>
-<html>
-    <head>
-        <title>Demo</title>
-    </head>
-    <body>
-        This is my first demo program.
-    </body>
-</html>
